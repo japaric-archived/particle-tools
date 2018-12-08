@@ -1,3 +1,10 @@
+# Status
+
+This crate is **UNMAINTAINED**. I no longer own a Photon board and won't be able
+to work on this.
+
+-- @japaric, 2018-12-08
+
 # `particle-tools`
 
 > Tools to aid with development of [Particle] applications
